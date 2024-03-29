@@ -18,7 +18,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Academic achievement scholarship (Thomas E. Ricks)
 - Top accounting graduate award
 - Heber J. Grant mentor for international students
-- Tutored and assisted teaching every single semester from the second until graduation.
+- Tutored and assisted teaching for 10 semesters
 
 
 ## Related Experience
