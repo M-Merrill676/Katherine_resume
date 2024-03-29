@@ -1,84 +1,78 @@
----
-layout: resume
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
+# Katherine Olivares
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="k.olivaresparra@gmail.com">k.olivaresparra@gmail.com</a>
+| <a href="https://www.linkedin.com/in/katherine-olivares">LinkedIn</a>
+| <a href="https://github.com/KatherineOlivares">GitHub</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2021-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Bachelor of Science in Accounting with a Certificate in Data Science
+- GPA: 4.0
+- Academic achievement scholarship (Thomas E. Ricks)
+- Top accounting graduate award
+- Heber J. Grant mentor for international students
+- Tutored and assisted teaching every single semester from the second until graduation.
 
 
 ## Related Experience
 
-### Internships
+### Tax Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2023 - Aug 2023`
+__BOSS Advisors__, Mesa, AZ
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Performed research, filing, data entry, and recording of accurate and complete financial records.
+- Worked with bookkeeping software while handling sensitive information with integrity.
+- Supplied CPAs and attorneys with complex projects including creating processes for a more systematic work environment, filing statutory agent registration and resignations, and updating databases.
 
-### Data Science Lead
+### Accounts Director
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`Jul 2021 - Present`
+__Global Payroll and Staffing__, Idaho Falls, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Manage electronic timekeeping system of over 20 employees. Calculate payable hours, commissions, and bonuses of said employees.
+- Lead three different sets of accounts ensuring they are profitable and growing.
+- Organize and maintain records of accounts receivables and payables.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Verification Specialist
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Jan 2021 - Dec 2021`
+__Brigham Young University Idaho - Financial Aid Office__, Rexburg, ID
 
-### Data Science Consulting Team
+- Audited 100+ FAFSA applications per day and analyzed them to determine financial aid eligibility.
+- Co-developed onboarding training system for new hires in a learning management system.
+- Audited tax returns and financial documents to verify the dispersion of funds.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Insurance Assessor
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`Apr 2018 - Dec 2020`
+__Accident Compensation Corporation__, Hamilton, New Zealand
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Assessed and determined cover per ACC legislation and policies across a range of claims of varying complexity.
+- Engaged with customers, employers, providers, internal advisors, medical specialists, and independent assessors.
+- Lead new process initiatives that promote continuous improvement in the team.
+- Promoted to be a trainer/Mentor for new hires within 4 months of start. Trained seven new hires.
 
 
-## Service and Work History
+## Service History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`Jan 2015 - Sep 2016`
+__Full-time volunteer representative__, The Church of Jesus Christ of Latter-day Saints
 
+- Worked eleven hours each day, six days a week providing community service, finding people to teach, and mentoring new volunteers.
+- Became a leader among the female volunteers, and traveled to different areas to mentor.
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+## Interests/Skills
+- Native Spanish speaker.
+- Ballet dancer apprentice in Ballet Etude Academy - Rexburg.
+- Hands-on experience with Power BI, Tableau, Excel VBA, IDEA, Python, QuickBooks, Drake, Ms-Access, and SQL.
 
 
 <!-- ### Footer
