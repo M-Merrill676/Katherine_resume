@@ -60,6 +60,10 @@ __Accident Compensation Corporation__, Hamilton, New Zealand
 - Lead new process initiatives that promote continuous improvement in the team.
 - Promoted to be a trainer/Mentor for new hires within 4 months of start. Trained seven new hires.
 
+## Interests/Skills
+- Native Spanish speaker.
+- Ballet dancer apprentice in Ballet Etude Academy - Rexburg.
+- Hands-on experience with Power BI, Tableau, Excel VBA, IDEA, Python, QuickBooks, Drake, Ms-Access, and SQL.
 
 ## Service History
 
@@ -69,14 +73,6 @@ __Full-time volunteer representative__, The Church of Jesus Christ of Latter-day
 - Worked eleven hours each day, six days a week providing community service, finding people to teach, and mentoring new volunteers.
 - Became a leader among the female volunteers, and traveled to different areas to mentor.
 
-## Interests/Skills
-- Native Spanish speaker.
-- Ballet dancer apprentice in Ballet Etude Academy - Rexburg.
-- Hands-on experience with Power BI, Tableau, Excel VBA, IDEA, Python, QuickBooks, Drake, Ms-Access, and SQL.
-
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
